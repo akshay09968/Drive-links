@@ -1,0 +1,164 @@
+25th
+https://drive.google.com/drive/folders/1S6PVQtsqZMYylqyZIcIxsuVKrPqBjpU_
+
+26th
+https://drive.google.com/drive/folders/1JVDoM3K8k_0W6CGpbZbXCv5vuj5LUmb2
+
+
+
+https://drive.google.com/drive/folders/1fCSfLqO0F_SjFVsRvUx29wij-RlKzBuN?usp=sharing
+
+https://drive.google.com/drive/folders/1cbcxHRG6ftguKwaWbph7ScfuZEIW3i4m?usp=sharing
+
+https://drive.google.com/drive/folders/164Ev8UzPqGTuRLNOB_eVN1xKgnXTQ6n8?usp=sharing
+
+https://drive.google.com/drive/folders/1ZTElDgeU-ksbKbEtAtxuMBRDMOCBIZGT?usp=sharing
+
+https://drive.google.com/drive/folders/1cjWHVvC5exN1PyC1-t366WQV7RC88iDN?usp=sharing
+
+https://drive.google.com/drive/folders/1afovaselZdfEEoqcFQoMpnJnu3g08RiK?usp=sharing
+
+https://drive.google.com/drive/folders/1V-y1kbJyYyqyKCYLAGqUlnjClqHKB3jR?usp=sharing
+
+https://drive.google.com/drive/folders/1AFvYd1mv1BTibO5HUUG2MDT12oUrmX0y?usp=sharing
+
+https://drive.google.com/drive/folders/1iVZ-3WXLOoo9A72PhZmwa8wUxmyx7uO3?usp=sharing
+
+https://drive.google.com/drive/folders/1pjQzGFYEXRJgTFubmDj7nE0B1w1jrLk-?usp=sharing
+
+https://drive.google.com/drive/folders/1CDmD6sDzD4R2RQJgf3hDE0qCl7Um3lG0?usp=sharing
+
+https://drive.google.com/drive/folders/1h0Uh-nxVFABfB42Fq34PwbYlgbjNfxbT?usp=sharing
+
+https://drive.google.com/drive/folders/1JC1wHoy98eyyA0dt_7r9UUoEvczv_0R1?usp=sharing
+
+https://www.guru99.com/spring-tutorial.html#spring-mvc-framework
+Spring MVC : 
+https://drive.google.com/drive/folders/11wIjuKiSqjr0nH0hs6fqVq__4gHZBIKu?usp=sharing (refer notes for mvc understanding)
+
+Spring boot : 
+https://drive.google.com/drive/folders/1U_eyrf8TWG_VgB_uAkgIhxQPtMmK8WBF?usp=sharing
+
+
+
+https://drive.google.com/drive/folders/1Kk6EEm_fSwFzDcY7Rc1eHPZ-Bg_8_l3P?usp=sharing
+
+https://drive.google.com/drive/folders/15Kp_ZhYbfkIjqDfSSJ71ebgsRvTWFRGk?usp=sharing
+
+https://drive.google.com/drive/folders/1Ow4ufOtxuRUDwquPF0fh5ocH8fls07w8?usp=sharing
+
+https://drive.google.com/drive/folders/15Kp_ZhYbfkIjqDfSSJ71ebgsRvTWFRGk?usp=sharing
+
+css:
+
+https://drive.google.com/drive/folders/1CbeGP6-kwieMOoCVGJE2d7zvR94KMehw?usp=sharing
+
+The slides are available as e-books in your Simplilearn account :
+Login to your LMS(Simplilearn) account
+Click on course and select "Self-Learning"
+Scroll down to find "Course resources"
+You can go ahead and download the materials provided.
+
+https://nodejs.org/en/
+
+Node JS (16.2 version):
+https://nodejs.org/download/release/v16.2.0/
+
+strings in JS: https://drive.google.com/drive/folders/1Bcndg3-i0FGwASMn4Yik_paeGXlTPxGs?usp=sharing
+
+Mounting:
+ 1 - constructor - intialize the state/ props
+ 2 - getDerivedStatefromProps - is used when to pass the props at runtime
+ 3 - render - is used to render the state
+ 4 - ComponentDidMount - to check whether the state is changed or not
+
+1 & 3 --> mandatory
+2 & 4 --> optional
+if 2 is used then 4 is not required
+
+Updating:
+ - shouldComponentUpdate - here we can return true if we want to change the state else we can    
+                           return false value if we dont want to return the state
+ - getSnapshotBeforeUpdate - it will return the previous state before update
+ - componentDidUpdate - it will return the newly updated state
+
+https://drive.google.com/file/d/1B5wkVig0VSor8rwURKU406hO2kpVSgDf/view?usp=sharing
+
+
+Selenium:
+
+https://drive.google.com/file/d/1R4Xd3TbkNdIZckqnbM6pWFF6tTG6K_Up/view?usp=drive_link
+
+Updating link : https://drive.google.com/file/d/12dAndZUmcD8FaFtS4NuCrUektVnWz4Pc/view?usp=sharing
+
+https://drive.google.com/file/d/1efG6yAa_fPoYC4xIGw14__zP9jMj0Jrg/view?usp=drive_link
+
+https://drive.google.com/file/d/1f-mbAQGD9_aJGRb3PvJU3Ti8_7h_Jlbl/view?usp=drive_link
+
+https://drive.google.com/file/d/1VWHCSOU0IMA0PJIDeW_E-xDv2NpU-Sej/view?usp=drive_link
+
+https://drive.google.com/drive/folders/1HZl3Cz9yZhehR8N_8UDaD20gT0qTvS2Z?usp=drive_link
+
+https://drive.google.com/drive/folders/1YvwoBLOqAmj7_JEPCr17Ze5aSgsiEEfb?usp=sharing	
+
+AutoIT setups:  https://drive.google.com/drive/folders/1NWPG4SDPjAPHFhD2xP9R1cnJJfokk5Jy?usp=sharing
+
+Steps : https://drive.google.com/file/d/18LiO8dDUp7gdKn37HfLnqRriV9DNpDGA/view?usp=sharing
+
+Test suite :
+
+<suite>
+  <test>
+    <class>
+     <method>
+     </method>
+     <method>
+     </method>
+    </class>
+
+    <class>
+      <method>
+     </method>
+     <method>
+     </method>
+    </class>
+  </test>
+</suite>
+
+https://drive.google.com/file/d/1wdmX4h5RU_S2EPXpAj8GW94Wp2V2t0rc/view?usp=sharing
+
+https://drive.google.com/drive/folders/1jQHbycAjpeFgVDYg-Sfky_piXoCnAMMU?usp=sharing
+
+-ControlFocus("Open","","Edit1")
+-ControlSetText("Open","","Edit1" ,"E:\Resume\Test.docx")
+-ControlClick("Open","","Button1")
+
+
+https://drive.google.com/drive/folders/1eAD-Tn8hI7K-I_Ln5VHRu7Bux-r71ZYD?usp=sharing
+
+
+AWS : https://docs.google.com/document/d/1x3jDkEIT5kDtZwieCC-3n5Wa5xbbMhxw/edit?usp=sharing&ouid=115975977502024917530&rtpof=true&sd=true
+
+CI/CD: https://semaphoreci.com/blog/cicd-pipeline
+
+Jenkins steps for simplilearn :
+Steps:
+1. Open terminal 
+2. Go to jenkins path ---> cd /usr/share/jenkins
+3. unpack the jenkins.war file:
+   java -jar jenkins.war --httpPort=8090  (change the port number )
+Note** : message will come in console as "Please use the following password" so a long key will be generated save that.
+and then the message will come as " Started download metadata".....
+
+4. Open web browser and put url as --> http://localhost:8090/
+5. A pop up will come as "Unlock Jenkins" asking for the key so enter the key you copoed from the terminal window.
+6. Next window will come as "Customize Jenkins" --> select --> Installed suggested plugins
+7. Click Next --> Save and Finish  --> Start using the jenkins 
+8. Welcome to Jenkins screen will come.
+9. Follow the practise question of Simplilearn
+
+
+Capstone:
+https://docs.google.com/document/d/1-_4MoM2NrG9Ri7lEGzT_W3wJp4LV8Bzd/edit?usp=sharing&ouid=115975977502024917530&rtpof=true&sd=true
+
+movie capstone: https://docs.google.com/document/d/1-vLbR1RHgTms147uZnS-1PgX0phquHCv/edit?usp=sharing&ouid=115975977502024917530&rtpof=true&sd=true
